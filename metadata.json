@@ -1,0 +1,6 @@
+{
+  "name": "Real Estate ERP Proposal Builder",
+  "description": "An interactive, drag-and-drop enabled proposal manager for Real Estate ERP and corporate website solutions, featuring automatic pricing, customized module configuration, and standard A4-sized PDF exporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
